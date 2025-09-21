@@ -1,0 +1,31 @@
+# ОС та IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Логи, тимчасові файли
+*.log
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.pyc
+
+# Node/JS
+node_modules/
+dist/
+build/
+coverage/
+
+# Секрети/конфіг
+.env
+*.secret
+*.key
+
+# Архіви/бінарники
+*.zip
+*.rar
+*.7z
+*.exe
